@@ -4,7 +4,7 @@ Nota: Puede que te de errores con problema de conexión de backend, IMPORTANTE c
 
 Este proyecto es un conjunto completo de herramientas esenciales para desarrollar aplicaciones en Angular. Encuentra la aplicación desplegada [aquí]([https://frontendbaseangularwithjava.netlify.app/inicio](https://frontendbaseangularwithnetcore.netlify.app/inicio)).
 
-![image](https://github.com/sergio185678/FrontendBaseAngularWithASPNETCORE/assets/67492035/f1ea29e3-ec1d-47bd-9ee8-cae32c3f4c93)
+![image](https://github.com/sergio185678/FrontendBaseAngularWithASPNETCORE/assets/67492035/b5dcdb05-d248-47b7-bbda-2619a76df705)
 
 Link del repositorio del backend: https://github.com/sergio185678/MyProjectASPNETCORE
 
