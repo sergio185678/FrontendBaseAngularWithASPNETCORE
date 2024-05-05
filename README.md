@@ -2,7 +2,7 @@
 
 Nota: Puede que te de errores con problema de conexión de backend, IMPORTANTE configura en tu navegador que permita "contenido no seguro". Fuente, respuesta hecha por Smack Alpha: https://stackoverflow.com/questions/37387711/page-loaded-over-https-but-requested-an-insecure-xmlhttprequest-endpoint
 
-Este proyecto es un conjunto completo de herramientas esenciales para desarrollar aplicaciones en Angular. Encuentra la aplicación desplegada [aquí]([https://frontendbaseangularwithjava.netlify.app/inicio](https://frontendbaseangularwithnetcore.netlify.app/inicio)).
+Este proyecto es un conjunto completo de herramientas esenciales para desarrollar aplicaciones en Angular. Encuentra la aplicación desplegada [[aquí]](https://frontendbaseangularwithnetcore.netlify.app/inicio)([https://frontendbaseangularwithjava.netlify.app/inicio](https://frontendbaseangularwithnetcore.netlify.app/inicio)).
 
 ![image](https://github.com/sergio185678/FrontendBaseAngularWithASPNETCORE/assets/67492035/b5dcdb05-d248-47b7-bbda-2619a76df705)
 
